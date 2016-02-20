@@ -1,11 +1,11 @@
 {
-  "name": "kanban_app",
+  "name": "React App",
   "version": "1.0.0",
-  "description": "work progress app",
+  "description": "React Boiler plate",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miknonny/kanban.git"
+    "url": "git+https://github.com/miknonny/react-boilerplate.git"
   },
   "scripts": {
     "start": "webpack-dev-server",
