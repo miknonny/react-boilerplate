@@ -38,10 +38,12 @@
     "webpack-merge": "^0.7.1"
   },
   "dependencies": {
+    "lodash": "^4.5.0",
     "node-uuid": "^1.4.7",
     "react": "^0.14.5",
     "react-dom": "^0.14.5",
     "react-redux": "^4.0.6",
-    "redux": "^3.0.5"
+    "redux": "^3.0.5",
+    "youtube-api-search": "0.0.5"
   }
 }
