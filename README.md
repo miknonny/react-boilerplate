@@ -1,7 +1,4 @@
-# React Boiler plate.
+## Simple Youtube Search
 
-An easy startup for react applications.
-
-## HOW TO.
-npm install
-npm start
+1. npm install
+2. npm start
